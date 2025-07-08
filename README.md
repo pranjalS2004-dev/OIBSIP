@@ -1,21 +1,25 @@
-# OIBSIP Internship Projects – Oasis Infobyte
+# 🌟 OIBSIP Internship Projects – Oasis Infobyte
 
-This repository contains the tasks I completed as part of the **Oasis Infobyte Internship Program**.
+This repository contains all tasks completed during the **Oasis Infobyte Internship Program** using Flutter.
 
 ---
 
- Task List:
+## 📋 Task List
 
 ### 🔹 Task 1: Quiz App
-A Flutter-based quiz app that g subjects, dynamic question loading, and a clean UI.
+A multiple-choice quiz app with a clean UI and real-time answer feedback.  
+📂 Folder: [`quiz/`](./quiz)  
+🎥 [Watch Demo](https://youtube.com/shorts/yfa6gyjYwRA?feature=share)
 
-### 🔹 Task 2: Calculator App
-A basic calculator with a user-friendly interface, supporting addition, subtraction, multiplication, and division.
-
-### 🔹 Task 3: Unit Converter App
-An app to convert units like temperature, weight, and length. Built using Flutter with intuitive dropdowns and result display.
 
 ---
 
-## 🔗 How to Use:
-Each task is located in its own folder:
+### 🔹 Task 2: Calculator App
+Basic calculator supporting +, –, ×, ÷ operations.  
+📂 Folder: [`calculator/`](./calculator)
+
+---
+
+### 🔹 Task 3: Unit Converter App
+Converts temperature, weight, and length with user-friendly dropdowns.  
+📂 Folder: [`unit_converter/`](./unit_converter)
