@@ -9,7 +9,8 @@ This repository contains all tasks completed during the **Oasis Infobyte Interns
 ### 🔹 Task 1: Quiz App
 A multiple-choice quiz app with a clean UI and real-time answer feedback.  
 📂 Folder: [`quiz/`](./quiz)  
-🎥 [Watch Demo](https://youtube.com/shorts/yfa6gyjYwRA?feature=share)
+🎥[Watch Demo](https://youtube.com/shorts/kN4zZDyWM_o?feature=share)
+
 
 
 ---
