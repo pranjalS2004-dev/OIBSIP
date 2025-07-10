@@ -18,6 +18,6 @@ It features:
 
 ## 🎥 Demo Video
 
-[![Watch Demo](assets/home_screen.png)](https://youtube.com/shorts/yfa6gyjYwRA?feature=share)
+[![Watch Demo](assets/home_screen.png)](https://youtube.com/shorts/kN4zZDyWM_o?feature=share)
 
-> 🔗 Click the image above to watch the **short demo video** on YouTube.
+> 🔗 Click the image above to watch the **updated demo video** on YouTube.
